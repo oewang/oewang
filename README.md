@@ -24,7 +24,7 @@ This [oewang.github.io](https://oewang.github.io/) blog site will record some of
 
 ### GitHub stats
 -----------------
-| <a href="https://github.com/oewang/oewang"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oewang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&bg_color=00000000&title_color=2bbcfe&text_color=000000&icon_color=2bbc8a" alt="ZeYing Wang github stats" /></a> | <a href="https://github.com/oewang/oewang"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oewang&layout=compact&theme=buefy&hide_border=true&bg_color=00000000&title_color=2bbcfe&text_color=000000&icon_color=2bbc8a" /></a> |
+| <a href="https://github.com/oewang"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oewang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true&bg_color=00000000&title_color=2bbcfe&text_color=000000&icon_color=2bbc8a" alt="ZeYing Wang github stats" /></a> | <a href="https://github.com/oewang"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oewang&layout=compact&theme=buefy&hide_border=true&bg_color=00000000&title_color=2bbcfe&text_color=000000&icon_color=2bbc8a" /></a> |
 | ------------------ | ------------------ |
 
 You can find me on <a href="mailto: oewang2738@gmail.com">
